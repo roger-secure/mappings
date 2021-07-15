@@ -1,10 +1,10 @@
 ﻿source_code,source_concept_id,source_code_description,target_concept_id,source_table_name
-101,256449,Bronchiectasis,256449,PAT
-102,435613,Cellulitis,40479411,PAT
-103,4141640,Menopause,40479411,PAT
-104,380094,Carpal Tunnel Syndrome,40479411,PAT
-105,4283893,Sinusitis,40479411,PAT
-107,1001,WC-Shoulderimpingement/injury+Relbowinjury,4344500,PAT
-108,1002,"W/Cleftshouldersprain,upperbackneckmusclesprain",4136228,PAT
-110,1004,GLOBALDELAY./EPILEPSY/SCOLIOSIS,4075828,PAT
-111,1005,rightfoot?Bite?cellulitiswithrash,4141909,PAT
+101,256449,Bronchiectasis,256449,DOI
+102,435613,Cellulitis,40479411,DOI
+103,4141640,Menopause,40479411,DOI
+104,380094,Carpal Tunnel Syndrome,40479411,DOI
+105,4283893,Sinusitis,40479411,DOI
+107,1001,WC-Shoulderimpingement/injury+Relbowinjury,4344500,DOI
+108,1002,"W/Cleftshouldersprain,upperbackneckmusclesprain",4136228,DOI
+110,1004,GLOBALDELAY./EPILEPSY/SCOLIOSIS,4075828,DOI
+111,1005,rightfoot?Bite?cellulitiswithrash,4141909,DOI
